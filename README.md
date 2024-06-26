@@ -5,4 +5,4 @@ Tool that was used is Python language with import Random module.
 
 ### Output of the project
 
-![](pg_output_result.png)<width="200">
+![](pg_output_result.png)
